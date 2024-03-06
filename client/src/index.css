@@ -16,9 +16,10 @@ header{
 nav{
   display: flex;
   gap: 10px;
+ 
 }
 nav a{
-  color:#fff;
+  color:#ccc;
 }
 nav a.active{
   color:red
